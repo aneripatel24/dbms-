@@ -1,4 +1,4 @@
-![image](https://github.com/aneripatel24/dbms-/assets/164609152/3602f148-493b-4613-9ff0-0aed30e0d9a7)I. Storyline
+I. Storyline
 In the bustling world of construction, where timelines are tight, resources are precious, and coordination is key, the need for an efficient and robust Construction Management System (CMS) is paramount. This proposal outlines the development of a comprehensive CMS as a database project to address the challenges faced by construction companies in managing their projects effectively. Construction projects involve numerous stakeholders, including clients, architects, engineers, contractors, suppliers, and laborers. Coordinating these stakeholders and managing various aspects of a project, such as scheduling, budgeting, resource allocation, and documentation, can be incredibly complex without a centralized system in place.
 
 Introduction
